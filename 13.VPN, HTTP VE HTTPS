@@ -1,0 +1,15 @@
+13.VPN, HTTP VE HTTPS
+
+VPN Virtual Private Network yani sanal özel ağ demektir.
+Genel olarak şirketlerin şubeleri arasında iletişimi şifreleyerek güvenli iletişim sağlanmasını amaçlamaktadır. En temel anlamıyla internete gerçek IP adresiniz gizlenip, farklı bir IP adresi üzerinden bağlanmanızı sağlayan hizmettir.
+Bir bilgisayardan karşı taraftaki diğer bilgisayar arasındaki iletişim kriptolama yapılarak güvenli bir tünel kurulması sağlanır. Bu tünel içerisinden geçen veri şifrelendiği için araya girmeye çalışan kişiler yalnızca kriptolu veriyi görebileceği için güvenliğiniz sağlanmıştır.
+
+HTTP(Hyper Text Transfer Protocol): "http://" Hiper metin gönderim protokolüdür. 1990'lı yıllardan beri network üzerinde kullanılıyor. Uygulama katmanında çalışıyor. Google Chrome, Mozilla Firefox, Opera gibi web tarayıcıları ile birlikte kullanılıyor. 
+Güvenli bir protokol değildir. Veriler şifrelenmez. 
+
+HTTPS(Secure Hyper Text Transfer Protocol): Güvenli hiper metin gönderim protokolü demektir. İletişim TLS ya da SSL ile şifreleniyor.
+
+TLS(Transport Layer Security)  Taşıma Katmanı Güvenliği
+SSL(Secure Sockets Layer)  Güvenli Soket Katmanı
+
+HTTPS'in asıl amacı güvenli olmayan bir iletişim ağı üzerinden güvenli bir kanal oluşturmaktır.

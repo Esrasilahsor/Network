@@ -1,0 +1,25 @@
+16.PORT NEDİR
+
+Port'un türkçe anlamı limandır.
+Portlar veri iletiminin gerçekleştiği giriş-çıkışlardır.
+Portlar sanal ve fiziksel olarak ikiye ayrılır.
+
+Sanal Port
+
+21 FTP 				135 RPC
+22 SSH				143 IMAP
+23 TELNET			194 IRC
+25 SMTP				443 HTTPS
+53 DNS				445 SMB
+80 HTTP 			1433 MSSQL
+110 POP3			3306 MYSQL
+115 SFTP 			3389 REMOTE DESKTOP
+
+
+Network İletişim Türleri 
+
+Unicast(Tek Noktaya Yayın): Elimizdeki paketi, aynı networkteki tek bir cihaza göndermektir.
+
+Multicast(Çoklu Yayın): Elimizdeki paketi, aynı networkteki birden fazla cihaza bilgisayarlara göndermektir.
+ 
+Broadcast(Genel Yayın): Elimizdeki paketi, aynı networkteki bütün cihazlara bilgisayarlara göndermektir. Routerlar broadcast yayın geçirmezler o yüzden broadcast yayınlar network dışına çıkmaz.

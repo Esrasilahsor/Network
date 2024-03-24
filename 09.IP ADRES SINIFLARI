@@ -1,0 +1,19 @@
+IP ADRES SINIFLARI
+
+Sınıfları			Adres Aralığı			Kullanıcı Sayısı				Subnet Mask
+
+	A		0.0.0.0 - 127.255.255.255		    16 777 214					   255.0.0.0
+    B 		128.0.0.0 - 191.255.255.255         65 534					       255.255.0.0
+    C       192.0.0.0 - 223.255.255.255         254                            255.255.255.0
+
+Subnet Mask (Alt Ağ Maskesi)
+
+Bir cihazın hangi networkte olduğunu belirler. Bir IP adresinin hangi bölümünün network, hangi bölümünün host olduğunu belirler.
+
+Not: Aynı networkte olmayan cihazlar haberleşmek için router kullanır. Aynı networkte olup olmadığını anlamak için subnet masklarına bakarak sınıfı belirlenir.
+
+A sınıfında subnet mask 255.0.0.0 olduğundan dolayı aynı networkte olmaları için IP adresindeki ilk kısım aynı olmalıdır.
+
+B sınıfında Subnet mask 255.255.0.0 olduğundan dolayı aynı networkte olmaları için IP adresindeki ilk 2 kısım aynı olmalıdır.
+
+C sınıfında Subnet mask 255.255.255.0 olduğundan dolayı aynı networkte olmaları için IP adresindeki ilk 3 kısım aynı olmalıdır.

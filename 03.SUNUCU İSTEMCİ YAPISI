@@ -1,0 +1,16 @@
+Sunucu İstemci Yapısı
+
+İstemci(Client): Bir ağ üzerinde, sunucu bilgisayarlardan hizmet alan kullanıcı bilgisayarlardır.
+
+Router(Yönlendirici): İki veya daha fazla cihazın birbiri ile ağ bağlantısını yönlendirmeyi sağlayan donanımlardır.
+Kablolu ya da Kablosuz olarak kullanılabilir. Cihazların ağ trafiğinde akıcı ve güvenli yolu bulmasında görev alır.
+
+Evlerimizdeki modemlerin içinde router, switch, access point bulunmaktadır.
+
+Switch(Anahtar): Bağlı olduğu bilgisayarlar arasında haberleşmeyi sağlayan unsurlardır. Daha hızlı bir ağ oluşturmamıza olanak sağlar.
+
+Erişim Noktası (Access Point): kablolu olan internet bağlantısını kablosuza çevirir. Bu sayede tablet, telefon, laptop gibi cihazlarının internete kablosuz bir şekilde bağlanabilir.
+Kablosuz İnternet erişim gücünü arttırmak için de kullanılırlar.
+  
+Bit: Bilgisayarların kullandıkları veriler yani bilgiler, 0 ve 1'ler halindedir  bu 0 ve 1'lerin her birine bit adı verilir.
+8 adet bit bir araya geldiğinde 1 Byte oluşturur.

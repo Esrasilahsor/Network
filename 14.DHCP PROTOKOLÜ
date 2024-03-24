@@ -1,0 +1,13 @@
+14.DHCP PROTOKOLÜ
+
+DHCP(Dynamic Host Cnfiguration Protocol) Dinamik host konfigurasyon protokolü demektir.
+Ağınızda bulunan bilgisayar, tablet, akıllı telefonlar veya loT gibi cihazlarınıza IP adresi, ağ maskesi, ağ geçidini otomatik atamak için kullanılan bir protokoldür.
+DHCP'den alınan IP adresi dinamik IP adresidir.
+
+
+DNS(Domain Name System): Alan adı sistemi demektir. DNS, internetteki her bir alanı adlandıran ve bunları birbirine bağlayan sistemdir.
+
+Alan Adı 				IP Adresi
+
+Google.com			142.250.187.142
+

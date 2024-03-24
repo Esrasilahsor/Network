@@ -1,0 +1,6 @@
+15.SSH TELNET VE FTP
+
+FTP(File Transfer Protocol) dosya gönderim protokolü demektir. İki bilgisayar arasında dosya paylaşımı yapabilmek için FTP protokolü kullanılır.
+
+SSH(Secure Shell) Güvenli kabuk demektir. Kullanıcılara sunucularını internet üzerinden kontrol etmesi ve düzenlemesini sağlayan uzak yönetim protokolüdür. Veri iletilirken şifrelenir.
+SSH, Telnet için güvenli bir yedek evrak oluşturuldu.

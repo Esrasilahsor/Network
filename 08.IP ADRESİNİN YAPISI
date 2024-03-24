@@ -1,0 +1,25 @@
+IP ADRESİNİN YAPISI
+
+IP adresi sayısal bir değerdir. 
+3. katman yani Network katmanı protokolüdür.
+IP Adresi yönetici tarafından değiştirilebilir.
+Ağdaki her cihazları tanımlamak için kullanılır. Ağdaki her cihazın özel bir IP adresi vardır.
+
+BAğlantısız (Connectionless) bir prokokoldür. Bağlantı olmadığı için hızlı bir prtokoldür ve networkün hızlı çalışmasını sağlar. Paketin hedefe ulaşmasını garanti etmez. 
+
+IP adresi 32 bitten oluşur. 
+
+IP ADRESİ 
+
+11000000.10101000.00000001.00000001		Binary
+
+  192.	   168.   	 1.		  1.		Decimal
+
+           Network			  Host
+
+Network Adresi: Router, network adresine göre yönlendirme yapar.
+Host Adresi: Server, PC, yazıcı gibi cihazlardır.
+
+SUBNET MASK
+
+255.255.255.0

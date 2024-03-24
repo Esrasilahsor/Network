@@ -1,0 +1,12 @@
+NAT (Network Address Translation)
+
+Nat "Ağ adresi çözümleme" anlamina gelmektedir. Local ağdaki bir cihazın internete açılması gerektiği zaman devreye girer.
+
+NAT Local(Private IP) IP adresi -> External(Public IP) çevirebilir.
+NAT External(Public IP) IP adresi -> Local(Private IP) çevirebilir.
+
+Private IP adresi öğrenmek için komut yöneticisine ipconfig /all yazılır.
+
+Ping Nedir?
+
+Hedef bilgisayarın ayakta olup olmadığını, o bilgisayarla iletişimimizin olup olmadığını öğrenmek için yaptığımız istektir.

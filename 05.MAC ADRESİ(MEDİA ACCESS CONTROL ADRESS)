@@ -1,0 +1,24 @@
+Mac Adresi(Media Access Control Adress): 
+
+Donanım kimliği ya da fiziksel kimlik olarak adlandırılır. Her donanımın üzerinde eşsiz bir Mac adresi vardır ve değişmez. 48 bitten oluşur.
+
+Mac adresi veri bağı katmanında çalışır. İlk 3 Byte üretici firmayı temsil ederken son 3 byte da donanımın kimliğini tespit eder.
+Mac adresi sadece aynı lokal networkte yani aynı ağ içerisindeki cihazların birbirini tanıması için geliştirilmiştir. İnternete açılmaz, farklı networklerde kullanılamaz.
+
+
+Arp Protokolü: IP adresi ile Mac adresini eşleştiren bir protokoldür. Eğer Mac adresi arp tablosunda yoksa arp paketleri gönderilerek IP-Mac eşleştirmesi yapılır.
+İlk defa haberleşecek aynı networkteki cihazlarda arp paketi gönderme işlemi yapılır, tekrar iletişim kurulacağı zaman arp paketlerine ihtiyaç duyumaz.
+
+Mac Adresi Nasıl Öğrenilir?
+
+Physical Address olarak görüntülenir. Başlat menüsünden komut yöneticisini açılır. Komut yöneticisine  config /all yazarak Mac adresi görüntülenebilir.
+
+Arp tablosunu görüntülemek için komut yöneticisine arp -a yazmamız gerekir.
+
+Not: Komut yöneticisine cls yazınca ekran temizleniyor.
+Ağ(Network) Katmanı
+
+Bu katmanda PDU'lar Packet olarak adlandırılır. 
+Bu katmanın esas amacı adresleme ve yönlendirmedir.
+Router'lar üçüncü katmanda çalışırlar. 
+

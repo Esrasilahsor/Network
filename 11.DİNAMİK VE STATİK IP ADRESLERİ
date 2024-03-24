@@ -1,0 +1,6 @@
+11.DİNAMİK VE STATİK IP ADRESLERİ
+
+Statik IP Adresi: Servis sağlayıcı tarafından verilen ve hiç değişmeyen bir adrestir. Sosyal medya, haber siteleri ve bir çok kurumsal siteler, e-ticaret siteleri ve sunucular atanmış statik IP kullanmaktadır. Güvenilir ve güvenlik açısından statik IP kullanımı her zaman tavsiye edilir.
+
+Dinamik IP Adresi: İnternet Servis Sağlayıcısı tarafından kullanıcıya her internete bağlandığında geçici olarak atanan değişken bir IP adresidir. Bilgisayarımız ya da cep telefonumuzdan başka bir yerde internete eriştiğimizde ya da modemi kapatıp açtığımızda farklı bir IP adresi atanmış olur.
+

@@ -1,0 +1,5 @@
+18.IP SUBNETTING(ALT AĞLARA BÖLME)
+
+IP adreslerini daha verimli kullanmak, güvenliği sağlamak ve Broadcast trafiğini azaltmak için Alt ağlara bölme işlemi kullanılır.
+
+192.168.1.10/24 olarak gösterilebilir. /24 Subnet Mask= 255.255.255.0 demektir. 

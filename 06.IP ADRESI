@@ -1,0 +1,14 @@
+IP Adresi:
+
+IP adresi "Internet Protocol" anlamına gelmektedir. İnternet üzerinde cihazların birbirleriyle iletişim kurabilmek ve veri alışverişi yapabilmek için kullandığı ağ kimliğidir. 
+
+Evimizde veya ofisimizde kullandığımız IP adresleri ile İnternete açılırken kullandığımız IP adresleri farklılık göstermektedir. Bu IP adresleri ikiye ayrılmaktadır.
+
+-Private(Local) IP Adresi
+-Public(External) IP Adresi
+
+Private(Local) IP Adresi: Evde ya da ofiste bulunan modeme kablolu veya kablosuz bağlanan her bir cihaz için modem tarafından o cihaza otomatik olarak bir IP adresi atanır. Bu IP adresine Local(Yerel) IP adresi veya Private IP adresi denir. Bu adres o modeme bağlanan cihazları birbirinden ayırmak için kullanılır. Fakat internete bu adresleri kullanarak çıkamazsınız.
+
+Exrernal(Public) IP Adresi: Bu IP adresi internet servis sağlayıcımız( Türk telekom, superonline vs) tarafından verilir ve İnternete açılırken bu IP adresi kullanılır.  İnternete açılırken Local IP adresimiz Public IP adresine dönüşür. Bu dönüşüm işlemi NAT sayesinde gerçekleşir.
+
+

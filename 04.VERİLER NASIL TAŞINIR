@@ -1,0 +1,18 @@
+		Veriler Nasıl Taşınır?
+
+Verilerimiz elektromanyetik dalgalar, elektrik sinyalleri ya da optik sinyaller şeklinde iletilir.
+
+OSI Referans Modeli: 
+
+-Verilerin parçalanması, küçültülmesi işlemine Encapsulation denir.
+-Verilerin tekrar birleştirilmesi, büyütülmesi işlemine De-Encapsulation denir.
+
+Fiziksel katman: Verinin kablo fiber gibi ortamlarda nasıl iletileceğini tanımlıyor.
+
+Fiber Optik Kablolar: Işık ile iletim
+
+Elektromanyetik Dalgalar: Wi-Fi (dalga yukarıdaysa 1, aşağıdaysa 0)
+
+Elektrik Sinyalleri: Kablo içinde elektriksel iletim
+
+Veri Bağı Katmanı: PDU (protocol data unit) olarak adlandırılır.Switchler veri bağı katmanında çalışır.

@@ -1,0 +1,23 @@
+Bir Ağa Nasıl Bağlanılır?
+Herhangi bir ağa dahil olmak için öncelikle bir ağ kartına ihtiyacımız vardır. Ağdaki her türlü veri bu cihaz üzerinden iletilir ya da alınır.
+İnternete açılabilmesi için modeme ihtiyaç duyarız. Modem içerisinde Default Gateway( Varsayılan Ağ Geçidi) adı verilen bir köprü vardır. Bu köprü sayesinde diğer ağlar ile iletişim kurabilmekteyiz.
+ 
+Ağ Türleri: Ağlar büyüklüklerine,  kullanıcı sayılarına veya hizmet türlerine göre kategorilere ayrılır.
+
+1. LAN(Local Area Network) Yerel Alan Ağı
+2. WAN(Wide Area Network) Geniş Alan Ağı
+3. WLAN(Wireless Local Area Network) Kablosuz Yerel Alan Ağı
+
+LAN(Yerel Alan Ağı): Bina, ofis, ev gibi tek bir alanda birbirine bağlanan cihazların oluşturduğu ağdır. 
+
+WAN(Geniş Alan Ağı): En basit tabiriyle Lan'ları birbirine bağlayan ağdır.
+
+WLAN(Kablosuz Yerel Alan Ağı): Ağdaki cihazların birbirleriyle kablosuz olarak iletişim kurduğu belli bir alanı ifade eder.
+
+               Ağ Şeması Oluşturmak
+
+Topoloji: Ağ topolojisi bir Ağı oluşturan cihazların nasıl yerleştirileceğini, nasıl başlanacağını ve veri iletiminin nasıl gerçekleşeceğini belirleyen yapıdır.
+
+Fiziksel Topoloji: Ağın fiziksel olarak nasıl görüneceğini belirler.
+
+Mantıksal Topoloji: Ağdaki veri akışının nasıl gerçekleştirileceğini belirler.

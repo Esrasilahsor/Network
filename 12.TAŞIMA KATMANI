@@ -1,0 +1,31 @@
+                12.TAŞIMA KATMANI
+
+PDU'lar bu katmanda segment olarak adlandırılır. Veri iletiminden sorumludur. Veri iletimini TCP ve UDP denilen iki önemli protokol sağlar.
+
+TCP(Transmission Control Protocol): Taşıma katmanında çalışan bir protokoldür. 4. katmanda çalışır. TCP gönderim kontrol protokolü anlamına gelmektedir. Bağlantı temelli bir protokol olan TCP'de kullanıcı verisi taşınmadan önce bağlantı kurulması gerekir.
+
+Protokol, ulaşım katmanında uçtan uca güvenilir bir ortam yaratmayı amaçlar. Ortamın güvenilirliği, kaybolan paketlerin tekrar gönderilmesini ele alır.
+
+SYN -> Synchronzation -> Senkronizasyon 
+ACK -> Acknowledgement -> Bilgilendirme
+FIN -> Finish -> Bağlantıyı Sonlandırma
+RST -> Reset -> Kopma, İptal Etme
+URG -> Urgent -> Acil
+PSH -> Push -> Veri Doğrudan Gönderilebilir.
+
+Three Way Handshake: Ana bilgisayar diğer kaynağa SYN bayrağı gönderir. Diğer kaynak senkronizsayon talebini alır ve ana bilgisayara SYN ve ACK bayrakarı gönderir. Ana bilgisayar bilgilendirme bayrağını (ACK) aldıktan sonra diğer kaynağa ACK bayrağı gönderir.
+
+Bu üç aşamadan sonra iki bilgisayar arasında bir bağlantı kurulur.
+
+UDP(User Datagram Protocol): UDP'nin temel işlevi verilerin gönderimini bağlantı kurmaksızın gerçekleştirmektir. TCP'ye göre daha hızlıdır fakat güvenilir değildir. UDP çoğu protokolün aksine veriyi gönderdikten sonra iletilip iletilmediğiyle ilgilenmez ve bu konuda kullanıcıya bilgi vermez. Ses ve video gönderiminde kullanılır. 
+
+TCP ve UDP Arasındaki Farklar:
+
+		TCP 										UDP
+
+Güvenli 				     				Güvensiz
+Bağlantı Temelli							Bağlantısız
+Yavaş										Hızlı
+Gönderim Garantili							Gönderimi Garanti Etmez
+Önemli Uygulamalarda Kullanılır				Gerçek Zamanlı Uygulamalar
+3 Yollu El Sıkışma Vardır					3 Yollu EL Sıkışma Yoktur
